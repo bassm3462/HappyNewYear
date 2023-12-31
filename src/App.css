@@ -1,0 +1,9 @@
+.containerVideo{
+  height: 100vh;
+  width: 100%;
+}
+.containerVideo .video{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
